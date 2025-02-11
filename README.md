@@ -5,6 +5,8 @@
 - Dataset contains 58 classes of Indian traffic signs.
 - Model is trained using TensorFlow/Keras.
 
+- data set link - https://drive.google.com/drive/folders/1nZ09M3FF1ClA3wESv7h3-5FOjFFt2_HZ?usp=drive_link
+
 ## Repository Structure
 ```
 Traffic_Sign_Recognition_Repo/
